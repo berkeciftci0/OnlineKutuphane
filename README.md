@@ -1,1 +1,18 @@
-# WebUygulamaProje1
+# Online Kütüphane
+-MVC Mimarisi,
+-Entity Framework paketleri ile çalışma,
+-NuGet Paket Yöneticisi ve konsolunu kullanma,
+-Proje Veri Tabanı bağlantılarını oluşturma(SQL Server kullanılmıştır),
+-Crud İşlemleri,
+-Migration oluşturma,
+-Code First yaklaşımını kullanarak tablolar oluşturma,
+-Foreign Key tanımlama ve ilişkisel tablolar ile çalışma,
+-Dependency Injection kullanımını,
+-Css, Html, Bootswatch teknolojileri,
+-TempData ve ViewBag kullanımı,
+-Repository Disagn Pattern kullanımı,
+-Resim dosyası ekleme ve taşıma işlemleri , 
+-Authorization ve Authentication (Scaffold Identity kütüphanesi)
+-Identity Razor Pages
+-İnput doğrulama işlemleri ve Hata mesajları oluşturma
+-Clean Code prensiplerine uygun kod yazma.
